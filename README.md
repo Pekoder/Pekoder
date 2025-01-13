@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pekoder 
-- 👀 I’m interested in solving problems that are related to tech and life 
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in solving problems that are related to tech and life and I also love Programming a lot.
+- 🌱 I’m currently a Front-End Developer
 - 📫 How to reach me
 - You can reach me with my email (ibikunlepeace900@gmail.com) or my phone number (09158611048)
 - 😄 Pronouns: Hardworking,Attentive, curious,etc
